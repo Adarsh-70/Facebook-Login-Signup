@@ -6,8 +6,11 @@ It's a front-end only project designed to replicate the UI/UX of Facebook’s au
 
 facebook-login-signup/
 │
+
 ├── index.html # Main login/signup page
+
 ├── style.css # Styling for the page
+
 └── README.md # Project documentation
 
 ## 🛠️ Technologies Used
